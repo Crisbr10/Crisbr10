@@ -19,4 +19,4 @@
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?borderRadius=5.3&showBorder=false&lineCount=2&theme=facebook&gap=11&hideBg=true&line1=html5,html,ff0505;css3,css,0335fc;bootstrap,bootstrap,c800ff;&line2=javascript,javascript,fbff00;git,git,ff8800;github,github,ffffff;" alt="My Tech Stack" />
 
-![Crisbr10 GitHub stats](https://github-readme-stats.vercel.app/api?username=crisbr10&show_icons=true&theme=nightowl)
+![Crisbr10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Crisbr10&show_icons=true&theme=radical)
