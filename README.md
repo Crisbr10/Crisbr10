@@ -3,6 +3,20 @@
    <h3 align="center">¡HOLA 👋! SOY CRISTHIAN 👨🏻‍💻</h3>
 </p>
 <hr>
+
+<h3> 💻 About Me </h3>
+<br>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Web Design and Development
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+<hr>
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?borderRadius=5.3&showBorder=false&lineCount=2&theme=facebook&gap=11&hideBg=true&line1=html5,html,ff0505;css3,css,0335fc;bootstrap,bootstrap,c800ff;&line2=javascript,javascript,fbff00;git,git,ff8800;github,github,ffffff;" alt="My Tech Stack" />
 
 ![Crisbr10 GitHub stats](https://github-readme-stats.vercel.app/api?username=crisbr10&show_icons=true&theme=nightowl)
